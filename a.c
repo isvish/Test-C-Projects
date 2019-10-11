@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() {
-	printf("\nHello Jenkins to trigger builds \n");
+	printf("\n Hello Jenkins to trigger builds\n\n");
 return 0;
 }
 
